@@ -4,23 +4,23 @@ module.exports = {
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://github.com/iamsukanta',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
+      url: 'https://www.linkedin.com/in/iamsukanta',
     },
     {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      name: 'StackOverFlow',
+      url: 'https://stackoverflow.com/users/6295132/sukanta-bala',
+    },
+    {
+      name: 'Leetcode',
+      url: 'https://leetcode.com/u/sukantabalacste28/',
+    },
+    {
+      name: 'Upwork',
+      url: 'https://www.upwork.com/freelancers/sukanta',
     },
   ],
 

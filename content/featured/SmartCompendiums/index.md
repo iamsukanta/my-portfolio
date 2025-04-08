@@ -1,6 +1,6 @@
 ---
 date: '2'
-title: 'Smart Compendiums | Digital Guides Made Simple'
+title: 'Smart Compendiums | Digital Guides'
 cover: './cover.png'
 github: 'https://github.com/smartcompendium/smart-compendiums'
 external: 'https://www.smartcompendiums.com/'

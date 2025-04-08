@@ -1,6 +1,6 @@
 ---
 date: '1'
-title: 'Strportals | Short Term Rentals Made Simple'
+title: 'Strportals | Short Term Rentals'
 cover: './cover.png'
 github: 'https://github.com/smartcompendium/str-portal'
 external: 'https://www.strportals.com/'
