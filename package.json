@@ -1,11 +1,15 @@
 {
   "name": "v4",
-  "description": "Personal Website V4",
+  "description": "Sukanta Bala's Personal Portfolio",
+  "engine": {
+    "node": "16.20.2",
+    "yarn": "1.22.22"
+  },
   "version": "1.0.0",
-  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
+  "author": "Design and Developed by Brittany Chiang, modified by Sukanta Bala(https://iamsukanta.com)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/v4"
+    "url": "https://github.com/iamsukanta/my-new-portfolio"
   },
   "keywords": [
     "gatsby"

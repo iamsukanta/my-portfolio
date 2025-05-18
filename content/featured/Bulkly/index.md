@@ -1,9 +1,9 @@
 ---
-date: '3'
+date: '6'
 title: 'Bulkly | Short Media Automation'
 cover: './cover.png'
 external: 'https://bulk.ly/'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+cta: ''
 tech:
   - jQuery
   - Laravel
